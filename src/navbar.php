@@ -1,16 +1,20 @@
 <style type="text/css">
-	nav {
-		background-color: rgba(204, 232, 254, 1);
-		
+	.fixed-top {
+		background-color: rgba(135, 144, 206, .75);
+		padding-top: 10px;
 		/**height: 70px;**/
-		transition: 90s;
+		transition: .5s;
+		border-bottom: 2px solid rgba(101, 103, 112, 0.25);
 	}
-	nav:hover {
-		/**background-color: rgba(204, 232, 254, 1);**/
-		background-color: #FF69B4;
+	.fixed-top:hover {
+		/**background-color: rgba(204, 232, 254, 1) !important;**/
+		background-color: rgba(135, 144, 206, 0.2);
+
+	}
+	.nav-link {
+		font-weight: 400;
 		
 	}
-
 </style>
 
 <nav class="navbar navbar-expand-sm fixed-top">
