@@ -16,7 +16,7 @@
 	<ul class="navbar-nav">
 		<li class="nav-item">
 			<div >
-				<div class="text-center" id="legal">Jacob Boyce's Playhouse is in no way affiliated with Jacob Boyce himself. It is a fan site worshiping our fearless web development group leader known only as daddy boyce.</div>
+				<div class="text-center" id="legal">Jacob Boyce's Playhouse is in no way affiliated with Jacob Boyce himself. It is a fan site worshiping our fearless web development group leader known only as Daddy Boyce.</div>
 			</div>
 		</li>
 	</ul>		

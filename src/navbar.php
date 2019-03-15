@@ -25,13 +25,18 @@
 			</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="/photos/">
+			<a class="nav-link" href="index.php">
+				<p>Home</p>
+			</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="photos.php">
 				<p>Photos</p>
 			</a>
 		</li>
 		<li class="nav-item">
-			<a class="nav-link" href="/contact/">
-				<p>Contact Me</p>
+			<a class="nav-link" href="Contact.php">
+				<p>Contact Jacob</p>
 			</a>
 		</li>
 	</ul>

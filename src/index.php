@@ -23,10 +23,13 @@
 		<div>
 			<div>Jacob Boyce is a handsome, nerdy, romantic, and determined when he chooses.  He is 	looking for a nice wamen.  He takes care of his parents and sister daily and falls on his bed in fatigue every 11:53pm.  He constantly is searching for sleep and needs it.  He needs a wamen to help break this cycle.
 			</div>
-		<div>
+    <div>
 			<div>
-			He is a world class athlete as a member of the Junior Varsity Track team at Rocklin High School. No one will ever manage to beat his 100m dash record of 150 seconds. He managed to sit down right at the finish line and won over the race. This is just one of many accomplishments our fearless leader has accomplished over his infinate lifetime.
+			He is a world class athlete as a member of the Varsity Track team at Rocklin High School. No one will ever manage to beat his 100m dash record of 150 seconds. He managed to sit down right at the finish line and won over the race. This is just one of many accomplishments our fearless leader has accomplished over his infinate lifetime.
 			</div>
+      <div>
+      <img src="/images/jacob.png">
+      </div>
 		</div>
 
  	</div>
