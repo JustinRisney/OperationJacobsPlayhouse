@@ -61,7 +61,7 @@ div.desc {
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="https://riotwebdev.ga/">
+  <a target="_blank" href="https://riotwebdev.ga/groups/web-development/boyce-ball/">
     <img src="/images/stock-photo-cyber-internet-robot-hacker-hacking-into-a-computer-to-steal-personal-data (1).png" alt="stock-photo-cyber-internet-robot-hacker-hacking-into-a-computer-to-steal-perosnal-data">
   </a>
   <div class="desc">stock-photo-cyber-internet-robot-hacker-hacking-into-a-computer-to-steal-perosnal-data (1).png</div>
