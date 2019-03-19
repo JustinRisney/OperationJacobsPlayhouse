@@ -8,5 +8,5 @@
 </head>
 <body>
 	<?php include 'navbar.php';?>
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMZUuNw2XZixP1c1BL8WvO2vI9zTPgrBoZ8timYPj3IS3VxQ/viewform?embedded=true" width="640" height="4126" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMZUuNw2XZixP1c1BL8WvO2vI9zTPgrBoZ8timYPj3IS3VxQ/viewform?embedded=true" width="640" height="4126" frameborder="0" marginheight="0" marginwidth="0" class="center"></iframe>
 </body>
